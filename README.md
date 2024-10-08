@@ -1,11 +1,5 @@
 # fresh-kicks(react, node.js, postgresql, tailwind)
 
-Link: https://fresh-kicks.up.railway.app
-
-Link for admin page: https://fresh-kicks.up.railway.app/administrate/admin_login
-
-
-
 
 Fresh Kicks is a personal project with most functionalities of a real shoe store website.
 
